@@ -19,7 +19,7 @@ This is the easiest step.
 
 * This will make a copy of the repo in your GitHub account, and will take you to the repo in your GitHub account.
 
-![GitHub repo](https://github.com/ENG7006/github-workflow/blob/master/github-repo.tiff)
+![GitHub repo](https://github.com/ENG7006/github-workflow/blob/master/github-repo-annotated.png)
 
 ### Clone the repo
 There's an easy way and a hard way.
