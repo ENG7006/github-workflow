@@ -4,13 +4,13 @@ You can find the various ways to work with git, GitHub, GitHub Desktop, Atom, an
 # The overview
 To download assignments, work with them, and submit them, you do these major steps:
 
-* Fork the repo.
-* Clone the repo.
+* [Fork the repo](#fork).
+* [Clone the repo](#clone).
 * Create a new branch.
 * Code!
 * Submit a pull request.
 
-### Fork the repo
+### <a id="fork"></a>Fork the repo
 This is the easiest step.
 
 * In a browser, get yourself to the repo hosted at the ENG 7006 organization. In general, the URL is https://github.com/eng7006/[repo name].
@@ -21,7 +21,7 @@ This is the easiest step.
 
 ![GitHub repo](https://github.com/ENG7006/github-workflow/blob/master/github-repo-annotated.png)
 
-### Clone the repo
+### <a id="clone"></a>Clone the repo
 There's an easy way and a hard way.
 
 The easy way is to click on the "Download to GitHub desktop" button, which, helpfully, isn't labelled. It's  
