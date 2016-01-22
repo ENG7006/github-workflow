@@ -32,9 +32,11 @@ The hard way:
 * In GitHub Desktop, click the "Add Repo" button. It looks a bit like this: ```+ˇ```. See the GitHub Desktop image with important buttons circled, below.
 
 * This will bring up the "Add repo" dialogue:
+
 ![Add repo](https://github.com/ENG7006/github-workflow/blob/master/add-repo.png)
 
 * Select "Clone" and it will bring up the Clone repo dialogue, which will have a list of repos in your GitHub accoun that aren't synced locally. Select the repo you want to work with from that list:
+
 ![Clone repo](https://github.com/ENG7006/github-workflow/blob/master/clone.png)
 
 * GitHub Desktop will ask you where to put the repo locally. ```git/[repo-name]``` is not a bad idea, but you can put it wherever you want. Especially since you'll be interfacing with the repo almost entirely through GitHub Desktop, and it will keep track of where the repo is.
@@ -51,11 +53,13 @@ We haven't yet gone over this in class. Logistically, it's quite easy:
 * Click on the "New branch" button; it's circled in the GitHub desktop image above.
 
 * This will bring up the "New branch" dialogue:
+
 ![Add branch](https://github.com/ENG7006/github-workflow/blob/master/new-branch.png)
 
 * Give the branch a descriptive name, one that will be readable to me. For example, if you were working with ```ball``` and were working on making it bounce horizontally, call your new branch ```horizontal```. Keep it brief, and don't use spaces.
 
 That's it! The new branch will show up in your timeline:
+
 ![With branches](https://github.com/ENG7006/github-workflow/blob/master/ghd-with-branches.png)
 
 Conceptually, branches are a bit more difficult. Each branch is an independent line of editing. Whenever you create a branch, it effectively is its own "track changes" history from that point forward. The weird thing is that the switching branches changes the whole folder, not just the file you're working on.
@@ -91,6 +95,7 @@ Once your daily is working in a particular, named branch, you can "turn your wor
 * Click the "Pull Request" button at the top right (circled above).
 
 * This brings up the Pull Request pane. It will automatically make the summary of your most recent commit the summary of the pull request. Replace this with a descriptive name (e.g. "ball-horizontal"). Give the pull request a description; this is a little message to me, if you think I need a message.
+
 ![Pull request](https://github.com/ENG7006/github-workflow/blob/master/pull-request.png)
 
 * Send the pull request! That sends it to me, and you're done. Time to start work on the next daily exercise! Create a new branch, and start working.
