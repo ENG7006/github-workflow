@@ -41,7 +41,7 @@ The hard way:
 
 * You now have a local working copy of the repo!
 
-![GitHub desktop](https://github.com/ENG7006/github-workflow/blob/master/github-desktop-annotated.png)
+![GitHub desktop](https://github.com/ENG7006/github-workflow/blob/master/gh-desktop-annotated.png)
 
 [Back to top](#top).
 
