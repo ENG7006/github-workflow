@@ -90,12 +90,14 @@ You can't just write code. You have to open files. Here are the basic steps:
 [Back to top](#top).
 
 ### <a id="pull"></a>Submit a pull request.
-Once your daily is working in a particular, named branch, you can "turn your work in," by submitting a pull request.
+Once your daily is working in a particular, named branch, you can "turn your work in," by submitting a pull request. **NB: Don't do this on your own the first time! Work through this with Scott in lab.**
 
 * Click the "Pull Request" button at the top right (circled above).
 
 * This brings up the Pull Request pane. It will automatically make the summary of your most recent commit the summary of the pull request. Replace this with a descriptive name (e.g. "ball-horizontal"). Give the pull request a description; this is a little message to me, if you think I need a message.
 
 ![Pull request](https://github.com/ENG7006/github-workflow/blob/master/pull-request.png)
+
+* You will need to specify which branch to merge where. Make sure you're moving your working branch (say, ```horizontal```, if you're working on ```ball```) into a branch I can see; typically, this will be ```eng7006/master```.
 
 * Send the pull request! That sends it to me, and you're done. Time to start work on the next daily exercise! Create a new branch, and start working.
